@@ -6,7 +6,7 @@
  verifica.addEventListener("click", function () {
   //variabili
 
-    const parola = parolaInput.value.toUpperCase;    
+    const parola = parolaInput.value.toUpperCase();    
     let isPalindromo = true;
 //ciclo for 
 
